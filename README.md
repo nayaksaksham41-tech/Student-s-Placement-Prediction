@@ -70,9 +70,11 @@ Parameters like CGPA and internship play a crucial role when we compare with oth
 Model 2 :
 Internship percentage will increase if student is able to score higher in verbal, logical reasoning, quants and programming. Students who have more knowledge and score in these areas have a higher chance of getting an internship and finally securing placement. It can be concluded that students who have better CGPA and higher scores in subjects like (6 parametrs arrange) can achieve better placement rates.
 
-
-
-
+RESULTS - 
+<img width="542" height="479" alt="image" src="https://github.com/user-attachments/assets/241eee7a-0cf7-4554-a44c-6887f2d0b82a" />
+<img width="905" height="439" alt="image" src="https://github.com/user-attachments/assets/b10fe2ce-a49f-483b-9ffd-705e81f25b99" />
+<img width="917" height="433" alt="image" src="https://github.com/user-attachments/assets/e392e239-2be7-4a15-add7-6312fd101bfc" />
+<img width="833" height="469" alt="image" src="https://github.com/user-attachments/assets/e58f2be8-0770-4571-bdcc-e1c0a2ca76f8" />
 
 
 
